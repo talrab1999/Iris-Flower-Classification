@@ -26,7 +26,7 @@ The dataset (`Iris.csv`) contains **150 samples** with the following features:
 2. **Clustering Methods Tried:**
 
  - **K-Means**
- - **PCA + K-Means
+ - **PCA + K-Means**
  - **Hierarchical Clustering**
  - **Gaussian Mixture Model (GMM)** (Best result: **97% accuracy**)
 
